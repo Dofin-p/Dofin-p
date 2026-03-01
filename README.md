@@ -36,16 +36,14 @@
 
 | プロジェクト名 | 概要・解決した課題 | 技術スタック |
 | :--- | :--- | :--- |
-| **[Sound Training Site](https://github.com/Dofin-p/Sound-trainnningSite)** | 補聴器ユーザーの「音の前後感」知覚課題に着目し、Webブラウザ上で空間音響トレーニングと研究データ収集ができるシステムを構築。単純なパンニングでなくEQ調整を組み合わせた独自アルゴリズムで前後感を強調。 | Vanilla JS (Vite), Web Audio API (HRTF), Three.js |
 | **[Visual Sort Suite](https://github.com/Dofin-p/Visualsort-suite)** | 「データ量・アルゴリズムの違いが処理時間にどう影響するか」を視覚的に検証するシミュレータ。Promise等の非同期処理でUIをフリーズさせずに5種のソートアニメーションを描画。 | Vanilla JS, HTML/CSS |
+| **[YouTube Playlist Extractor](https://github.com/Dofin-p/Playlist-URL-Extractor)** | NoteBookLMを用いた学習時に、再生リストのURLを1件ずつ手動コピーする作業が発生していたため開発。YouTube Data API + GASをプロキシAPIとして活用し、数十分かかっていた作業を約1分に短縮。 | Vanilla JS, HTML/CSS, Google Apps Script, YouTube Data API v3 |
 
 ---
 
 ### 🔬 Academic Research
 **テーマ：補聴器ユーザーの音響知覚・空間音響**
 
-* **背景:** 補聴器ユーザーが日常生活で「音の方向（特に前後感）」を知覚しづらいという課題を発見し、研究・システム開発の両面からアプローチ。
-* **実装アプローチ:** `Web Audio APIのPannerNode`（HRTFベース）に加えて、EQ調整で耳の錯覚を利用した前後感の強調アルゴリズム（`FrontBackTestManager.js`）も実装した。
-* **設計の工夫:** 音声処理ロジック（`AudioManager.js`）とUI・ゲームロジックを完全分離し、保守性と将来的なテスト拡張を考慮したモジュール設計を採用。
+* **背景:** 補聴器ユーザーが日常生活で「音の方向（特に前後感）」を知覚しづらいという課題を発見し、研究・システム開発の両面からアプローチ。(現在サイト制作中)
 
 
