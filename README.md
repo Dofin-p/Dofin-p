@@ -29,6 +29,7 @@
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 
 ---
+</div>
 
 ### 🚀 Featured Projects (代表作)
 私が課題解決のために設計・開発したプロダクトです。詳しくはそれぞれのリポジトリのREADME.mdをご参照ください。
@@ -44,7 +45,7 @@
 **テーマ：補聴器ユーザーの音響知覚・空間音響**
 
 * **背景:** 補聴器ユーザーが日常生活で「音の方向（特に前後感）」を知覚しづらいという課題を発見し、研究・システム開発の両面からアプローチ。
-* **実装アプローチ:** `Web Audio API` の `PannerNode` を用いたHRTFベースのバイノーラル処理に加え、周波数特性（EQ）調整を組み合わせることで、人間の耳の錯覚を利用した擬似的な前後感強調アルゴリズム（`FrontBackTestManager.js`）を実装。
+* **実装アプローチ:** `Web Audio APIのPannerNode`（HRTFベース）に加えて、EQ調整で耳の錯覚を利用した前後感の強調アルゴリズム（`FrontBackTestManager.js`）も実装した。
 * **設計の工夫:** 音声処理ロジック（`AudioManager.js`）とUI・ゲームロジックを完全分離し、保守性と将来的なテスト拡張を考慮したモジュール設計を採用。
 
-</div>
+
