@@ -1,6 +1,6 @@
 <div align="center">
 
-# Backend & Signal Processing Engineer 🚀
+# 「聴こえ」と「効率化」を、コードで解く。
 **筑波技術大学 情報科学コース 2年 | 音響知覚研究 × 業務効率化ツール開発**
 
 日常の煩雑な作業を自動化するツール、Webサービスの開発や、空間音響・音響知覚向上の研究に取り組んでいます。
@@ -11,8 +11,7 @@
 **⚙️ Backend & Logic**
 
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+<img src="https://img.shields.io/badge/GAS-4285F4?style=flat&logo=googleappsscript&logoColor=white" alt="GAS" />
 
 **🗄️ Database**
 
@@ -31,7 +30,7 @@
 ---
 </div>
 
-### 🚀 Featured Projects (代表作)
+###  Featured Projects (代表作)
 私が課題解決のために設計・開発したプロダクトです。詳しくはそれぞれのリポジトリのREADME.mdをご参照ください。
 
 | プロジェクト名 | 概要・解決した課題 | 技術スタック |
