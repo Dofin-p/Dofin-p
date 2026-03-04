@@ -7,25 +7,32 @@
 
 ---
 
-### 🛠 Tech Stack & Tools
-**⚙️ Backend & Logic**
+### 🛠 Tech Stack 
+<p align="center">
+    <a href="https://skill-icons-builder.vercel.app/">
+      <img src="https://skillicons.dev/icons?i=html,css,javascript&theme=light&perline=10" />
+    </a>
+  </p>
 
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/GAS-4285F4?style=flat&logo=googleappsscript&logoColor=white" alt="GAS" />
+[![My Skills](https://skillicons.dev/icons?i=sqlite,java&theme=light&center=true&perline=10)](https://skill-icons-builder.vercel.app/)
 
-**🗄️ Database**
-
-<img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-
-**🌐 Frontend**
-
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 
 **🔧 DevOps & Tools**
 
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<p align="center">
+    <a href="https://skill-icons-builder.vercel.app/">
+      <img src="https://skillicons.dev/icons?i=git,github&theme=light&center=true&perline=10" />
+    </a>
+  </p>
+
+
+**🔰 Studying...**
+<p align="center">
+    <a href="https://skill-icons-builder.vercel.app/">
+      <img src="https://skillicons.dev/icons?i=react,ts,postgresql&theme=light&perline=10" />
+    </a>
+  </p>
+
 
 ---
 </div>
