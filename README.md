@@ -8,11 +8,8 @@
 ---
 
 ### 🛠 Tech Stack 
-<p align="center">
-    <a href="https://skill-icons-builder.vercel.app/">
-      <img src="https://skillicons.dev/icons?i=html,css,javascript&theme=light&perline=10" />
-    </a>
-  </p>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,ts&center=true&perline=10)](https://skill-icons-builder.vercel.app/)
 
 [![My Skills](https://skillicons.dev/icons?i=sqlite,java&theme=light&center=true&perline=10)](https://skill-icons-builder.vercel.app/)
 
@@ -27,12 +24,8 @@
 
 
 **🔰 Studying...**
-<p align="center">
-    <a href="https://skill-icons-builder.vercel.app/">
-      <img src="https://skillicons.dev/icons?i=react,ts,postgresql&theme=light&perline=10" />
-    </a>
-  </p>
 
+[![My Skills](https://skillicons.dev/icons?i=react,postgresql,py&theme=light&center=true&perline=10)](https://skill-icons-builder.vercel.app/)
 
 ---
 </div>
